@@ -8,22 +8,6 @@ In this ‘Data Analysis’ project, we’ll analyze a global Pharmaceutical Man
 ⚡PowerQuery Editor [For data-transformation/data-modeling]  
 ⚡Multipage fully Interactive Report [For drawing insights and analysis] 
 
-## Table of Contents
-- [Introduction](#introduction) 
-- [Objective](#objective)
-- [Dataset](#dataset)
-- [Solution Approach](#solution-approach)
-- [How To Use](#how-to-use)
-- [License](#license)
-- [Credits](#credits)
-- [Get in touch](#get-in-touch)
-
-
-## Introduction
-* `Datamatrix-ml Pharmaceuticals` is one of the leading Pharmaceutical Manufacturing companies with a global presence. 
-* Their Markets are divided into different regions across the world. One of those regions manages the German and Poland Markets. 
-* Company does not sell directly to customers. Instead, they work with a couple of Distributors in all their regions. 
-* They have an agreement with each distributor to share their Sales Data. This is to enable them to gain insights up to the retail level. This data is made available to them in CSV format.
 
 ## Objectives
 I will perform in-depth data analysis to get insight into company sales performance. Specifically, below are the essential requirements to be satisfied…
@@ -112,11 +96,3 @@ This more granular detailed report analyses data from the company distributors' 
  
  <img src="https://github.com/sssingh/pharmaceutical-sales-analysis-powerbi/blob/main/images/sales-team-perform-page.png?raw=true"/>
 
-## License
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-
-## Credits
-- Dataset sourced from [Foresight BI](https://foresightbi.com.ng/practice-data/3-datasets-for-your-portfolio/)
-
-[Back To The Top](#pharmaceutical-sales-analysis)
