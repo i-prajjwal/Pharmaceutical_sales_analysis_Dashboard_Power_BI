@@ -72,7 +72,7 @@ The provided dataset was relatively clean and well organized; hence only a littl
 * The provided data is in a single table format. The exploration revealed that it contains both categorical (`dimensions`) and numeric (`facts`) data. 
 * We build a data model where dimensions and facts are separated, then they are linked together by logical relationship to form a `star schema.` The resultant data model is shown below...
 
-<img src="https://github.com/i-prajjwal/Pharmaceutical_sales_analysis_Dashboard_Power_BI/blob/main/data-model.png?raw=true"/>
+<img src="https://github.com/i-prajjwal/Pharmaceutical_sales_analysis_Dashboard_Power_BI/blob/main/data-model.png"/>
 
 The tables with the prefix `DIM` are dimension tables, and `FACT` is the fact table.
 
